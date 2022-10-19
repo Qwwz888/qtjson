@@ -1,0 +1,34 @@
+{
+    "address": null,
+    "age": 26,
+    "color": [
+        "black",
+        "white"
+    ],
+    "interest": {
+        "badminton": "羽毛球",
+        "basketball": "篮球"
+    },
+    "languages": {
+        "serialOne": {
+            "grade": 10,
+            "language": "汉语"
+        },
+        "serialTwo": {
+            "grade": 6,
+            "language": "英语"
+        }
+    },
+    "like": [
+        {
+            "game": "三国杀",
+            "price": 58.5
+        },
+        {
+            "game": "海岛奇兵",
+            "price": 66.65
+        }
+    ],
+    "name": "王五",
+    "vip": true
+}
